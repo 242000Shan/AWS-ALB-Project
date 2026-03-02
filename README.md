@@ -144,5 +144,5 @@ This validated:
 
 ## 👩‍💻 Author
 
-Shanmuga Priya
-Cloud & DevOps Learner
+Shanmuga Priya.S
+(Cloud & DevOps Learner)
